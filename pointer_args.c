@@ -10,6 +10,7 @@ void func01(int *);
 
 int main(void)
 {
+	// new comment 2022-10-07
 	int a;
 	int *intptr;
 
